@@ -1,3 +1,12 @@
+<p >Step : </p>
+1. Buat .env file
+2. Composer update
+3. npm i
+4. npm run dev
+5. php artisan serve
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">

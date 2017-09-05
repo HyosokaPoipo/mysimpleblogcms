@@ -36,4 +36,11 @@ class LoginController extends Controller
     {
         $this->middleware('guest')->except('logout');
     }
+
+    public function hisokaLoginForm()
+    {
+        print_r("xxxxxxxxxxxxxxx");
+        \Log::info("hereh here here");
+        return view('auth.login');
+    }
 }
