@@ -27,7 +27,7 @@ let mix = require('laravel-mix'),
     assetsDir + 'js/application.js',
     nodeDir   + 'jquery-floating-social-share/dist/jquery.floating-social-share.min.js',
   ];
-  ;
+
 
 /*
  |--------------------------------------------------------------------------
