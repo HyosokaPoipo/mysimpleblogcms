@@ -6,6 +6,8 @@
 /.idea
 /.vagrant
 /public/packages
+/public/hyosoka_dist
+/public/fonts
 Homestead.json
 Homestead.yaml
 npm-debug.log
