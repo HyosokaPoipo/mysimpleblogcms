@@ -1,9 +1,9 @@
 <p >Step : </p>
-1. Buat .env file
-2. Composer update
-3. npm i
-4. npm run dev
-5. php artisan serve
+1. Buat .env file <br/>
+2. Composer update <br>
+3. npm i <br>
+4. npm run dev <br>
+5. php artisan serve <br>
 
 
 
